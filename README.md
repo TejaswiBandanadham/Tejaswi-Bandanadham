@@ -22,7 +22,7 @@ As a recent graduate with a degree in Cybersecurity, I am passionate about safeg
 
 [Research Papers]
 
--[GDPR-and-hacking-protecting-data-in-a-cyber-threatened-world] (https://medium.com/@1509tejaswi/gdpr-and-hacking-protecting-data-in-a-cyber-threatened-world-cf6e1f3f7547)
+ <https://medium.com/@1509tejaswi/gdpr-and-hacking-protecting-data-in-a-cyber-threatened-world-cf6e1f3f7547>GDPR-and-hacking-protecting-data-in-a-cyber-threatened-world
 
 
 
