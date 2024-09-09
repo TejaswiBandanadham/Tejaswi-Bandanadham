@@ -22,6 +22,6 @@ As a recent graduate with a degree in Cybersecurity, I am passionate about safeg
 
 [Research Papers]
 
- - [GDPR and Hacking](https://github.com/tejaswibandanadham/1509tejaswi/gdpr-and-hacking-protecting-data-in-a-cyber-threatened-world-cf6e1f3f7547)
+ - [GDPR and Hacking](https://github.com/tejaswibandanadham/@1509tejaswi/gdpr-and-hacking-protecting-data-in-a-cyber-threatened-world-cf6e1f3f7547)
 
 
