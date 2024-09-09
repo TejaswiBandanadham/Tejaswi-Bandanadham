@@ -27,7 +27,8 @@ Read my latest [GDPR and Hacking: Protecting Data in a Cyber-Threatened World](h
 ## Certifications
 
 - **Cybersecurity Internship Certificate**: This certificate demonstrates my completion of a cybersecurity internship.
-  [View Certificate](https://github.com/username/repository-name/blob/main/certificates/Cybersecurity_internship_Certificate.pdf)
+  [View Certificate](https://github.com/tejaswibandanadham/Tejaswi-Bandanadham/blob/main/certificates/Cybersecurity_internship_Certificate.pdf)
 
+Cybersecurity_internship Certificate.pdf
 
 
