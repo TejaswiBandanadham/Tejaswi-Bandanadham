@@ -30,6 +30,9 @@ Read my latest [GDPR and Hacking: Protecting Data in a Cyber-Threatened World](h
 - **Cybersecurity Internship Certificate**: This certificate demonstrates my completion of a cybersecurity internship.
   [View Certificate](https://github.com/tejaswibandanadham/Tejaswi-Bandanadham/blob/main/certificates/Cybersecurity_internship%20Certificate%20(1).pdf)
 
+  **Azure Certificate**: This certificate demonstrates my proficiency in Azure.
+  [View Certificate](https://github.com/tejaswibandanadham/Tejaswi-Bandanadham/blob/main/certificates/Tej_Azure_Certificate.pdf)
+
 
 
 
