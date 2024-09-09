@@ -24,15 +24,6 @@ As a recent graduate with a degree in Cybersecurity, I am passionate about safeg
 
 Read my latest [GDPR and Hacking: Protecting Data in a Cyber-Threatened World](https://medium.com/@1509tejaswi/gdpr-and-hacking-protecting-data-in-a-cyber-threatened-world-cf6e1f3f7547)
 
-## Certifications
-
-- **Cybersecurity Internship Certificate**: This certificate demonstrates my completion of a cybersecurity internship.
-  [View Certificate](https://github.com/tejaswibandanadham/Tejaswi-Bandanadham/blob/main/certificates/Cybersecurity_internship Certificate (1).pdf)
-
-  ## Certifications
-
-- **Cybersecurity Internship Certificate**: This certificate demonstrates my completion of a cybersecurity internship.
-  [View Certificate](https://github.com/tejaswibandanadham/Tejaswi-Bandanadham/blob/main/certificates/Cybersecurity_internship_Certificate.pdf)
 
   ## Certifications
 
@@ -41,6 +32,5 @@ Read my latest [GDPR and Hacking: Protecting Data in a Cyber-Threatened World](h
 
 
 
-certificates/Cybersecurity_internship Certificate (1).pdf
 
 
