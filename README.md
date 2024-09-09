@@ -7,11 +7,17 @@ As a recent graduate with a degree in Cybersecurity, I am passionate about safeg
 [Technical Skills]
 
 •	Security Tools: SIEM (Splunk, QRadar), Firewalls (Palo Alto, Cisco ASA), IDS/IPS, Wireshark, Metasploit, Nessus, Burp Suite
+
 •	Security Frameworks: NIST, ISO 27001, CIS Controls, OWASP Top 10
+
 •	Incident Response: Threat Hunting, Malware Analysis, Forensics
+
 •	Penetration Testing: Web and Network Security Testing, Vulnerability Assessments
+
 •	Programming/Scripting: Python, Bash, PowerShell, SQL
+
 •	Operating Systems: Windows, Linux (Ubuntu, CentOS)
+
 •	Cloud Security: AWS, Azure (IAM, Security Groups, Network Security)
 
 
