@@ -33,6 +33,12 @@ Read my latest [GDPR and Hacking: Protecting Data in a Cyber-Threatened World](h
   **Azure Certificate**: This certificate demonstrates my proficiency in Azure.
   [View Certificate](https://github.com/tejaswibandanadham/Tejaswi-Bandanadham/blob/main/certificates/Tej_Azure_Certificate.pdf)
 
+  ## Projects
+
+**Internal Penetration Testing**: Led a penetration testing engagement for a mid-sized company, identifying critical vulnerabilities and recommending fixes that reduced the attack surface by 30%.
+**Cloud Security Audit**: Performed a security audit on an AWS environment, ensuring proper implementation of Identity and Access Management (IAM) roles and encryption protocols.
+
+
 
 
 
